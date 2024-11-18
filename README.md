@@ -12,4 +12,4 @@ to_upper
 
 find_chr
 
-<img src='https://imgur.com/a/jOS0h08.png' title='Output' width='' alt='Output' />
+<img src='https://imgur.com/a/jOS0h08.png'title='Output' width='' alt='Output' />
